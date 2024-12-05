@@ -1,1 +1,1 @@
-Proyecto de la Unidad 2 de la Asignatura Investigacion Operativa 2 
+Proyecto de Unidad de Investigacion Operativa 2
